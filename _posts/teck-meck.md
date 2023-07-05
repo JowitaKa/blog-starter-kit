@@ -1,13 +1,13 @@
 ---
 title: 'May I present teck-meck?'
 excerpt: 'Teck-meck blog is coming to rescue. Give you some ideas about what toys, apps, games, projects might be helpful for the (digital) development of you children. How to help them (and yourself) embrace technology, grow with it and use it to your advantage rather than being overwhelmed by it.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/teck-meck/cover.jpg'
 date: '2023-07-03T05:35:07.322Z'
 author:
-  name: Jowi
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Jowita
+  picture: '/assets/blog/authors/jowita.jpg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/teck-meck/cover.jpg'
 ---
 ## Pardon, What?
 it is a playful name deriving of "teck" (for technology obviously) and the German word heckmeck (kind of chaos) which imo describes the situation a lot of parents feel they are stuck in. There are so many errands to run, so much on your mind. Trying to keep your family well fed, fit and happy, flourish your reletionship, excell at your work, give the best support to your kids. The day is too short for all this. 
@@ -23,16 +23,10 @@ My favorite part of teck-meck though is the coding category. As a software devel
 
 More of such essays around upbringing and digital education you will also find in the blog.
 
-And so that I could profit from the work I invest in the blog, there are a few affiliates links to third party webshops. When you click on it before buying products there I will be having a small share while your price stays the same.
+And so that I could profit from the work I invest in the blog, there are a few affiliates links to third party webshops. When you click on it before buying products, I will be having a small share while the price stays the same for you.
 
 ## Where
-you can also follow me on fb twitter or insta
+there it is <https://teck-meck.de>
 
-This [website (https://stackoverflow.com)][website] is awesome.
-
-You will never use anything else than this [website].
-
-Check out <https://stackoverflow.com> for more fun.
-
-[website]: https://stackoverflow.com
+You can also follow on [fb](https://www.facebook.com/people/Teck-meck/100090981511242/), [twitter](https://twitter.com/teck_meck) or [insta](https://www.instagram.com/teck_meck/).
 

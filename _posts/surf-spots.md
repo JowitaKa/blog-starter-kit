@@ -1,13 +1,13 @@
 ---
 title: 'Surf  spots'
 excerpt: 'personal "best of" surf spots. We try to integrate surfing in our journeys. Sometimes it is quite troublesome as you need all this equipment and the kids need to be taken care of, but it is all worth it and these are days that we cherish for a lifetime. So why not to gather those special memories together on one site. '
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/surf-spots/cover.jpg'
 date: '2023-07-04T05:35:07.322Z'
 author:
-  name: Jowi
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Jowita
+  picture: '/assets/blog/authors/jowita.jpg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/surf-spots/cover.jpg'
 ---
 
 
@@ -17,7 +17,7 @@ Our first surf camp back in 2015 I suppose. the surf school went bancrupt some t
 
 Nice little town with its own beaches. We were on the one in the south, a nice cafe/restaurant on it, sometimes really big waves. That is when the locals come out with their trucks and dogs and go do some real surfing... 
 
-https://goo.gl/maps/hkNGS7dUDq9TQrax7
+See [Baleal Beach on Google Maps](https://goo.gl/maps/hkNGS7dUDq9TQrax7)
 
 Some nice hikes around possible, also on the baleal island itself. along the beach there was a nice long road for riding longboard if you still can. Peniche just next to it is well known surfing spot.
 
@@ -27,7 +27,7 @@ Bundoran Beach was vast, windy und quite cold the time we were there. With prope
 
 We stayed at a hostel that was full of surfers as well.
 
-https://goo.gl/maps/hYcuPpHYTkZnTjLU9
+See [Bundoran Beach on Google Maps](https://goo.gl/maps/hYcuPpHYTkZnTjLU9)
 
 You can also book a bath in seaweeds or ride on the beach and through the beautiful dunes on the horses back.
 
@@ -38,21 +38,21 @@ We surfed in a few spots there. Port Fairy, Lorne, Torqey and Narooma. We had a 
 Once we even rented a board from somebody online and step into his backyard to get and later return the board left there lying for us on the lawn :) and we put the money in his letter box. People there were terrific.
 
 One spot was special for us though, Lorne. We stayed on the parking lot next to the beach, there were parrots flying everywhere. And on the other side of the street there was a rental and some restaurants. It was really convenient and we loved that place.
-Lorne Beach, VIC is here https://goo.gl/maps/aW8cKMQXDutAnHiR9
+See [Lorne Beach, VIC on Google Maps](https://goo.gl/maps/aW8cKMQXDutAnHiR9)
 
-Another beautiful surf beach in Torque https://goo.gl/maps/EtvLPEATPv7GBgVd7
+And another beautiful [surf beach in Torque](https://goo.gl/maps/EtvLPEATPv7GBgVd7)
 
 ## Plage Goulien, Crozon, Fr
 
 A long beach with steady waves and almost turquoise water. perfect for kids and beginners. There is a nice camping site next to it and on the way down you can grab a board at the rentals. you can also book some lessons.
 
-For us it was perfect. So easy going. We had the kids and all the stuff for the beach with us and we still could surf a bit spontaneously. In between we ate at the crêperie on the camping site. Other then that there are also some caves to see, quite some tides, beautiful hikes possible around on the rocky shore.
+For us, it was perfect. So easy going. We had the kids and all the stuff for the beach with us and we still could surf a bit spontaneously. In between we ate at the crêperie on the camping site. Other then that there are also some caves to see, quite some tides, beautiful hikes possible around on the rocky shore.
 
-https://goo.gl/maps/2qFdyRrZNpgHYXJeA
+See [Plage Guilien on Google Maps](https://goo.gl/maps/2qFdyRrZNpgHYXJeA)
 
 ## Denmark
 
-There is this famous surfing spot Denmark's Cold Hawaii that we want to test in the near future as you can visit it from Hamburg with a 5 hours drive https://goo.gl/maps/Zivkm5MsHpoGeqET7
+There is this famous surfing spot Denmark's Cold Hawaii that we want to test in the near future as you can visit it from Hamburg with a 5 hours drive. See [Cold Hawaii here on Google Maps](https://goo.gl/maps/Zivkm5MsHpoGeqET7)
 
 And Bornholm is supposed to have a few spots, let's see. TBC
 
