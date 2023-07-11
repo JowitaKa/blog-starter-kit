@@ -3,16 +3,16 @@ import MoreStories from '../components/more-stories'
 import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
-import { getAllPosts } from '../lib/api'
+import {getAllPosts} from '../lib/api'
 import Head from 'next/head'
-import { JOWITAS_BLOG } from '../lib/constants'
+import {JOWITAS_BLOG} from '../lib/constants'
 import Post from '../interfaces/post'
 
 type Props = {
   allPosts: Post[]
 }
 
-export default function Index({ allPosts }: Props) {
+export default function Index({allPosts}: Props) {
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1)
   return (
@@ -22,7 +22,7 @@ export default function Index({ allPosts }: Props) {
           <title>{JOWITAS_BLOG}</title>
         </Head>
         <Container>
-          <Intro />
+          <Intro/>
           {heroPost && (
             <HeroPost
               title={heroPost.title}
@@ -33,7 +33,7 @@ export default function Index({ allPosts }: Props) {
               excerpt={heroPost.excerpt}
             />
           )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          {morePosts.length > 0 && <MoreStories posts={morePosts}/>}
         </Container>
       </Layout>
     </>
@@ -51,6 +51,6 @@ export const getStaticProps = async () => {
   ])
 
   return {
-    props: { allPosts },
+    props: {allPosts},
   }
 }
