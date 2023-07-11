@@ -5,7 +5,7 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-import { CMS_NAME } from '../lib/constants'
+import { JOWITAS_BLOG } from '../lib/constants'
 import Post from '../interfaces/post'
 
 type Props = {
@@ -19,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`Next.js Blog Developer's Test`}</title>
+          <title>{JOWITAS_BLOG}</title>
         </Head>
         <Container>
           <Intro />
